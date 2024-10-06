@@ -1,6 +1,6 @@
 # Hello, my name is Nik Bishop
 
-### About me   
+### About me 🖌️
 <p align="left">I'm passionate about blending creativity with technology, and coding has become my way of turning ideas into reality. With a background in graphic design, I’ve always had a strong visual sense, and my love for design started early, when I spent hours experimenting with Photoshop as a kid. Over time, this creative passion evolved, leading me toward the world of web development.
 <br><br>
 My journey into coding started as an exploration of the balance between creativity and logic. While I've always enjoyed working with design, the problem-solving aspects of development really spoke to me. Today, as a student at Noroff University, I’m focused on enhancing my skills in front-end development and UX/UI design, aiming to create user-centered experiences that are both beautiful and functional.
