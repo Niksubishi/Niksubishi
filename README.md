@@ -1,6 +1,6 @@
 # Hello, my name is Nik Bishop
 
-### About me 👸🏽  
+### About me   
 <p align="left">I'm passionate about blending creativity with technology, and coding has become my way of turning ideas into reality. With a background in graphic design, I’ve always had a strong visual sense, and my love for design started early, when I spent hours experimenting with Photoshop as a kid. Over time, this creative passion evolved, leading me toward the world of web development.
 <br>
 My journey into coding started as an exploration of the balance between creativity and logic. While I've always enjoyed working with design, the problem-solving aspects of development really spoke to me. Today, as a student at Noroff University, I’m focused on enhancing my skills in front-end development and UX/UI design, aiming to create user-centered experiences that are both beautiful and functional.
@@ -36,12 +36,9 @@ Thanks for stopping by! Feel free to explore some of my work below.</p>
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:nikbishopdesign@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niksibishi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Niksubishi&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
