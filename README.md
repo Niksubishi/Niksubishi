@@ -1,40 +1,46 @@
-# Hello, my name is Nik Bishop
+# 👋 Hi, I’m Nik
 
-### About me 🖌️
-<p align="left">I'm passionate about blending creativity with technology, and coding has become my way of turning ideas into reality. With a background in graphic design, I’ve always had a strong visual sense, and my love for design started early, when I spent hours experimenting with Photoshop as a kid. Over time, this creative passion evolved, leading me toward the world of web development.
-<br><br>
-My journey into coding started as an exploration of the balance between creativity and logic. While I've always enjoyed working with design, the problem-solving aspects of development really spoke to me. Today, as a student at Noroff University, I’m focused on enhancing my skills in front-end development and UX/UI design, aiming to create user-centered experiences that are both beautiful and functional.
-<br><br>
-What excites me most is the process—the thrill of watching a project grow from an idea into a polished, finished product. Each step along the way brings a new challenge and an opportunity to think creatively, and that’s what keeps me motivated.
-<br><br>
-Outside of my coding journey, I continue to nurture my creative side through music and other design projects. Whether I’m creating, exercising or just relaxing with a good movie, I find that these activities help fuel my passion for creativity.
-<br><br>
-Thanks for stopping by!</p>  
+## 💡 About Me
+I’m passionate about blending creativity with technology, turning ideas into reality through code.  
+With a background in **graphic design**, I’ve always had a strong visual sense — my love for design started early, experimenting with Photoshop as a kid.  
+That creative passion eventually led me to the world of **web development**.
 
-## Skills
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> 
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /> 
-<img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" /> 
-</p>
+Currently, I’m a student at **Noroff University**, focusing on **front-end development** and **UX/UI design**, creating user-centered experiences that are both beautiful and functional.
 
+---
 
+## 🚀 What I Love
+- 🎨 The process of watching a project grow from idea to polished product  
+- ⚖️ Balancing creativity and logic in every build  
+- 🧩 Tackling new challenges and learning along the way  
 
+---
 
-###
+## 🛠️ Tech & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Contact
-  <a href="https://www.instagram.com/niksubishi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:nikbishopdesign@gmail.com" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+## 🎯 Currently Learning
+- 🔹 Advanced React patterns  
+- 🔹 Performance optimization in front-end apps  
 
+---
+
+## 🎵 Outside of Code
+I continue to nurture my creativity through **music** and **design projects**.  
+Whether I’m creating, exercising, or relaxing with a good movie, these activities keep my inspiration alive.  
+
+---
+
+📫 **Let’s Connect:**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nikbishopportfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niksubishi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikbishopdesign@gmail.com)
