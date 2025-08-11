@@ -2,7 +2,7 @@
 
 ## 💡 About Me
 I’m passionate about blending creativity with technology, turning ideas into reality through code.  
-With a background in **graphic design**, I’ve always had a strong visual sense — my love for design started early, experimenting with Photoshop as a kid.  
+With a background in **Graphic, Print and Media**, I’ve always had a strong visual sense — my love for design started early, experimenting with Photoshop as a kid.  
 That creative passion eventually led me to the world of **web development**.
 
 Currently, I’m a student at **Noroff University**, focusing on **front-end development** and **UX/UI design**, creating user-centered experiences that are both beautiful and functional.
