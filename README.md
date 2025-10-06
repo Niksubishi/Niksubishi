@@ -34,7 +34,8 @@ Currently, I’m a student at **Noroff University**, focusing on **front-end dev
 ## 🎯 Currently Learning
 - 🔹 Advanced React patterns
 - 🔹 Diving deeper into TypeScript to refine my skills
-- 🔹 Performance optimization in front-end apps  
+- 🔹 Performance optimization in front-end apps
+- 🔹 Learning Next.js
 
 ---
 
