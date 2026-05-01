@@ -32,10 +32,9 @@ I recently graduated at **Noroff University**, focusing on **front-end developme
 ---
 
 ## 🎯 Currently Learning
-- 🔹 Advanced React patterns
 - 🔹 Diving deeper into TypeScript to refine my skills
 - 🔹 Performance optimization in front-end apps
-- 🔹 Learning Next.js
+- 🔹 Learning Django
 
 ---
 
